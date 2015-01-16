@@ -1,0 +1,8 @@
+{
+  "name": "immutable",
+  "version": "3.6.2",
+  "description": "Immutable Data Collections",
+  "homepage": "https://github.com/facebook/immutable-js",
+  "main": "immutable.js",
+  "scripts": [ "immutable.js" ]
+}
